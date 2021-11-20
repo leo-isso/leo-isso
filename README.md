@@ -11,7 +11,7 @@
 **Status:**
 --------------------------
 
-⌨️ ReactJs, React Native, NodeJs, JavaScript, TypeScript and more.
+⌨️ ReactJs, NodeJs, JavaScript, TypeScript, Python, CPP and more.
 
 📚 Graduated as Multimedia Productor | Masters as Information Archtecture and UX at Faculdade Impacta de Tecnologia.
 
@@ -23,9 +23,6 @@
 
 🏘️ São Paulo, Brazil
 
-
-
-
 **Hobbies:**
 --------------------------
 
@@ -36,18 +33,3 @@
 💪 Hit the Gym (Really Hard)
 
 🌬️ Hookah
-
-<!--
-**leo-isso/leo-isso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
