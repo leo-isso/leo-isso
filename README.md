@@ -11,6 +11,10 @@
 **Status:**
 --------------------------
 
+⌨️ ReactJs, React Native, NodeJs, JavaScript, TypeScript and more.
+
+📚 Graduated as Multimedia Productor | Masters as Information Archtecture and UX at Faculdade Impacta de Tecnologia.
+
 🏢 I'm currently full-time at [RX Pro](https://rxpro.com.br/) 
 
 💰 Open for Freelance Projects 
@@ -18,6 +22,7 @@
 👀 Looking for OpenSource projects to contribute
 
 🏘️ São Paulo, Brazil
+
 
 
 
