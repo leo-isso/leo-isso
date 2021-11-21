@@ -26,10 +26,10 @@
 **Hobbies:**
 --------------------------
 
-📖 Study (Software Engineering, Philosophy)
+📖 Study (Software Engineering, Philosophy, Crypto Market, and more)
 
 🖥️ Software Side Projects
 
 💪 Hit the Gym (Really Hard)
 
-🌬️ Hookah
+🎨 Admiring art of all kinds
