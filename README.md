@@ -11,11 +11,11 @@
 **Status:**
 --------------------------
 
-⌨️ ReactJs, NodeJs, JavaScript, TypeScript, Python, CPP and more.
+⌨️ ReactJs, NodeJs, JavaScript, TypeScript, Python, Rust and more.
 
 📚 Graduated as Multimedia Productor | Masters as Information Architecture and UX at Faculdade Impacta de Tecnologia.
 
-🏢 I'm currently full-time at [RX Pro](https://rxpro.com.br/) 
+🏢 I'm currently full-time at [CI&T](https://ciandt.com/) - on an international projects unit
 
 💰 Open for Freelance Projects 
 
