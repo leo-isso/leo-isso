@@ -6,14 +6,12 @@
 
 ### 💜 Thechnology, Art, Blockchain, Crypto and NFT enthusiast 💜
 
-#### Find my new projects at [The Known Exception](https://github.com/TheKnownException)
-
 **Status:**
 --------------------------
 
 ⌨️ ReactJs, NodeJs, JavaScript, TypeScript, Python, Rust and more.
 
-📚 Graduated as Multimedia Productor | Masters as Information Architecture and UX at Faculdade Impacta de Tecnologia.
+📚 Graduated as Multimedia Productor | Masters as Information Architecture and UX at Faculdade Impacta de Tecnologia. | Planning on studying Computer Engineering 
 
 🏢 I'm currently full-time at [CI&T](https://ciandt.com/) - on an international projects unit
 
@@ -33,3 +31,7 @@
 💪 Hit the Gym (Really Hard)
 
 🎨 Admiring art of all kinds
+
+
+--------------------------
+#### Check also: [The Known Exception](https://github.com/TheKnownException)
